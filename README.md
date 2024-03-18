@@ -3,10 +3,11 @@ An API for a social network web application where users can share their thoughts
 
 ## Links
 
-GitHub Repository:
+GitHub Repository:  
 https://github.com/stuartgosborn/hw18-social-network-api
 
-Demonstration Video:
+Demonstration Video:  
+https://app.screencastify.com/v3/watch/LXaKcJPgORIudCc9rLBg
 
 
 ## User Story
